@@ -15,7 +15,13 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [2025-10-18 23:00:00 SUSCTF 2025 wp](http://matriy330.github.io/519e5256/)
+- [2025-10-14 23:07:30 UE4逆向初探-OverWatch](http://matriy330.github.io/791560d6/)
+- [2025-10-13 23:00:00 TSCTF-J 2025 wp](http://matriy330.github.io/ae56c8ab/)
+- [2025-10-07 00:00:00 CTF逆向常见反调试技术总结](http://matriy330.github.io/21e5b258/)
+- [2025-10-06 00:00:00 游戏逆向初探](http://matriy330.github.io/65f6ce99/)
+- [2025-10-03 00:00:00 DASCTF 2023 10 wp](http://matriy330.github.io/2ade85f8/)
+- [2025-10-02 00:00:00 Angr 学习](http://matriy330.github.io/41a159b6/)<!-- BLOG-POST-LIST:END -->
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=The%20End&fontSize=90&fontAlign=50&fontAlignY=70&desc=&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
