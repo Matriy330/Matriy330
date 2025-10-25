@@ -8,6 +8,20 @@
   </a>
 </p>
 
+## Github Stats | Github 详情
+<div align="center">
+<table><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Matriy330&show_icons=true&count_private=true&hide_border=true" align="center" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matriy330&hide_border=true&layout=compact" align="center" />
+
+</td></tr></table>  
+
+</div>
+
+<br/>  
 ## My Skills And Tools
 <div align="center">
   <img align="center" src="https://skillicons.dev/icons?i=c,cpp,java,py,js,spring,ts,html,css,php,md,mysql,wordpress,docker,git" />
