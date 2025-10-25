@@ -1,3 +1,6 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hi%20There!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I'm%20Matriy&descAlign=50&descSize=40&descAlignY=60&animation=twinkling" />
 </p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=The%20End&fontSize=90&fontAlign=50&fontAlignY=70&desc=&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+</p>
