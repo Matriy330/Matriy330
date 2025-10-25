@@ -13,10 +13,6 @@
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Matriy330&theme=github-compact&hide_border=true&area=true" />
 </div>
 
-<div align="center">
-  ![](https://raw.githubusercontent.com/Matriy330/Matriy330/main/assets/github-contribution-grid-snake.svg)
-</div>
-
 ## My Skills And Tools
 <div align="center">
   <img align="center" src="https://skillicons.dev/icons?i=c,cpp,java,py,js,spring,ts,html,css,php,md,mysql,wordpress,docker,git" />
