@@ -13,6 +13,10 @@
   <img align="center" src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,php,md,mysql,wordpress,docker,git,vscode,obsidian" />
 </div>
 
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=The%20End&fontSize=90&fontAlign=50&fontAlignY=70&desc=&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
