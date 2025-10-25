@@ -13,7 +13,7 @@
   <img align="center" src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,php,md,mysql,wordpress,docker,git,vscode,obsidian" />
 </div>
 
-## Latest Blog Posts
+## Latest [Blog](https://matriy.github.io/) Posts
 <!-- BLOG-POST-LIST:START -->
 - [2025-10-18 23:00:00 SUSCTF 2025 wp](http://matriy330.github.io/519e5256/)
 - [2025-10-14 23:07:30 UE4逆向初探-OverWatch](http://matriy330.github.io/791560d6/)
