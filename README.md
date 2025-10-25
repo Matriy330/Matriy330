@@ -10,7 +10,7 @@
 
 ## My Skills And Tools
 <div align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=c,cpp,java,py,js,spring,ts,html,css,php,md,mysql,wordpress,docker,git,vscode,pycharm,git,IDEA,visualstudio" />
+  <img align="center" src="https://skillicons.dev/icons?i=c,cpp,java,py,js,spring,ts,html,css,php,md,mysql,wordpress,docker,git,vscode,pycharm,git,idea,visualstudio" />
 </div>
 
 ## Latest [Blog](https://matriy330.github.io/) Posts
