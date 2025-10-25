@@ -9,7 +9,9 @@
 </p>
 
 ## Github Stats | Github 详情
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Matriy330&theme=github-compact&hide_border=true&area=true" />
+<div align="center">
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Matriy330&theme=github-compact&hide_border=true&area=true" />
+</div>
 
 ## My Skills And Tools
 <div align="center">
