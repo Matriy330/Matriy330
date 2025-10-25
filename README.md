@@ -1,3 +1,3 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hi%20There!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Matriy&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hi%20There!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I'm%20Matriy&descAlign=50&descSize=40&descAlignY=60&animation=twinkling" />
 </p>
