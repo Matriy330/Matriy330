@@ -13,7 +13,7 @@
   <img align="center" src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,php,md,mysql,wordpress,docker,git,vscode,obsidian" />
 </div>
 
-## 📝 Latest Blog Posts
+## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
