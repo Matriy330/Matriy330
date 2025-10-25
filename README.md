@@ -18,10 +18,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matriy330&hide_border=true&layout=compact" align="center" />
 
 </td></tr></table>  
-
 </div>
-
-<br/>  
 
 ## My Skills And Tools
 <div align="center">
