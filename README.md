@@ -9,16 +9,7 @@
 </p>
 
 ## Github Stats | Github 详情
-<div align="center">
-<table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Matriy330&show_icons=true&count_private=true&hide_border=true" align="center" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matriy330&hide_border=true&layout=compact" align="center" />
-
-</td></tr></table>  
-</div>
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Matriy330&theme=github-compact&hide_border=true&area=true" />
 
 ## My Skills And Tools
 <div align="center">
