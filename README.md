@@ -3,7 +3,7 @@
 </p>
 
 ## Skill Set Overview
-<img align="center" src="https://skillicons.dev/icons?i=c,cpp,java,TypeScript,,py,js,html,css,php,md,mysql,wordpress,docker,git,vscode,obsidian" />
+<img align="center" src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,php,md,mysql,wordpress,docker,git,vscode,obsidian" />
 
 
 <p align="center">
