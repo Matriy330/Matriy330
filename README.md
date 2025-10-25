@@ -12,6 +12,7 @@
 <div align="center">
   <img align="center" src="https://skillicons.dev/icons?i=c,cpp,java,py,js,spring,ts,html,css,php,md,mysql,wordpress,docker,git" />
 </div>
+<p></p>
 <div align="center">
   <img align="center" src="https://skillicons.dev/icons?i=vscode,pycharm,git,idea,visualstudio" />
 </div>
