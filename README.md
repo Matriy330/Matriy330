@@ -27,12 +27,12 @@
 ## Latest [Blog](https://matriy330.github.io/) Posts
 <!-- BLOG-POST-LIST:START -->
 - [2025-11-05 21:45:34 NSSCTF 2025 re wp](http://matriy330.github.io/f925a96f/)
+- [2025-11-04 22:21:38 IDA e语言逆向初探-以一道CTF题为例](http://matriy330.github.io/1e7e61d9/)
 - [2025-10-26 19:32:14 一道题浅析LD_PRELOAD文件劫持 /proc/self/status反反调试](http://matriy330.github.io/b6dfbc54/)
 - [2025-10-25 18:22:34 GeekGame 2025 re wp](http://matriy330.github.io/fab00bb3/)
 - [2025-10-18 23:00:00 SUSCTF 2025 wp](http://matriy330.github.io/519e5256/)
 - [2025-10-14 23:07:30 UE4逆向初探-OverWatch](http://matriy330.github.io/791560d6/)
-- [2025-10-13 23:00:00 TSCTF-J 2025 wp](http://matriy330.github.io/ae56c8ab/)
-- [2025-10-07 00:00:00 CTF逆向常见反调试技术总结](http://matriy330.github.io/21e5b258/)<!-- BLOG-POST-LIST:END -->
+- [2025-10-13 23:00:00 TSCTF-J 2025 wp](http://matriy330.github.io/ae56c8ab/)<!-- BLOG-POST-LIST:END -->
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=The%20End&fontSize=90&fontAlign=50&fontAlignY=70&desc=&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
