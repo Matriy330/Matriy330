@@ -26,13 +26,13 @@
 
 ## Latest [Blog](https://matriy330.github.io/) Posts
 <!-- BLOG-POST-LIST:START -->
+- [2025-11-09 15:39:32 某节拍APP逆向+XPosed模块编写](http://matriy330.github.io/e3395b96/)
 - [2025-11-07 08:25:25 华为杯第四届中国研究生网络安全创新大赛 Megrez RE WP](http://matriy330.github.io/9e076382/)
 - [2025-11-05 21:45:34 NSSCTF 2025 re wp](http://matriy330.github.io/f925a96f/)
 - [2025-11-04 22:21:38 IDA e语言逆向初探-以一道CTF题为例](http://matriy330.github.io/1e7e61d9/)
 - [2025-11-03 08:18:20 WMCTF 2025 re wp](http://matriy330.github.io/bd334558/)
 - [2025-11-01 15:20:55 强网杯初赛 2025 RE tradre](http://matriy330.github.io/81597019/)
-- [2025-10-31 21:53:40 简析一道白盒AES逆向题](http://matriy330.github.io/23cb59f1/)
-- [2025-10-30 20:25:01 DASCTF 2024.8 wp re](http://matriy330.github.io/bc4297f9/)<!-- BLOG-POST-LIST:END -->
+- [2025-10-31 21:53:40 简析一道白盒AES逆向题](http://matriy330.github.io/23cb59f1/)<!-- BLOG-POST-LIST:END -->
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=The%20End&fontSize=90&fontAlign=50&fontAlignY=70&desc=&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
