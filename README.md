@@ -26,13 +26,13 @@
 
 ## Latest [Blog](https://matriy330.github.io/) Posts
 <!-- BLOG-POST-LIST:START -->
+- [2025-12-07 14:44:33 DASCTF 2025下半年赛 RE wp](http://matriy330.github.io/8b3b5504/)
 - [2025-12-03 22:17:37 Frida 学习&lpar;Frida-Labs&rpar;](http://matriy330.github.io/fc586b74/)
 - [2025-12-02 10:15:18 AWDP FIX 及妙妙小工具](http://matriy330.github.io/8e88964a/)
 - [2025-11-26 11:45:37 Android实战-逆向某li某li视频APP](http://matriy330.github.io/728483b1/)
 - [2025-11-19 10:36:35 RCTF 2025 RE wp](http://matriy330.github.io/c2e2e113/)
 - [2025-11-17 19:29:00 某习惯app的脱壳分析与破解](http://matriy330.github.io/f441fea0/)
-- [2025-11-09 15:39:32 某节拍APP逆向+XPosed模块编写](http://matriy330.github.io/e3395b96/)
-- [2025-11-07 08:25:25 华为杯第四届中国研究生网络安全创新大赛 Megrez RE WP](http://matriy330.github.io/9e076382/)<!-- BLOG-POST-LIST:END -->
+- [2025-11-09 15:39:32 某节拍APP逆向+XPosed模块编写](http://matriy330.github.io/e3395b96/)<!-- BLOG-POST-LIST:END -->
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=The%20End&fontSize=90&fontAlign=50&fontAlignY=70&desc=&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
