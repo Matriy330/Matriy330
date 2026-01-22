@@ -28,11 +28,11 @@
 <!-- BLOG-POST-LIST:START -->
 - [2026-01-21 23:08:09 ByteCTF2021 EasyDroid复现](http://matriy330.github.io/d5a3f640/)
 - [2026-01-17 13:38:37 ByteCTF2021 BabyDroid复现](http://matriy330.github.io/27338605/)
+- [2026-01-17 13:38:37 ByteCTF2021 MediumDroid复现](http://matriy330.github.io/1411eb04/)
 - [2026-01-15 15:02:00 HITCTF2025 wp](http://matriy330.github.io/1732c87e/)
 - [2025-12-07 14:44:33 DASCTF 2025下半年赛 RE wp](http://matriy330.github.io/8b3b5504/)
 - [2025-12-03 22:17:37 Frida 学习&lpar;Frida-Labs&rpar;](http://matriy330.github.io/fc586b74/)
-- [2025-12-02 10:15:18 AWDP FIX 及妙妙小工具](http://matriy330.github.io/8e88964a/)
-- [2025-11-26 11:45:37 Android实战-逆向某li某li视频APP](http://matriy330.github.io/728483b1/)<!-- BLOG-POST-LIST:END -->
+- [2025-12-02 10:15:18 AWDP FIX 及妙妙小工具](http://matriy330.github.io/8e88964a/)<!-- BLOG-POST-LIST:END -->
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=The%20End&fontSize=90&fontAlign=50&fontAlignY=70&desc=&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
