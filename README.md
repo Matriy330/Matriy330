@@ -26,13 +26,13 @@
 
 ## Latest [Blog](https://matriy330.github.io/) Posts
 <!-- BLOG-POST-LIST:START -->
+- [2026-01-27 11:30:39 ByteDroid2022 BronzeDroid复现](http://matriy330.github.io/7f2da78c/)
 - [2026-01-26 19:26:29 ByteCTF2021 ByteDroid2复现](http://matriy330.github.io/66e1f5f9/)
 - [2026-01-25 22:55:29 ByteCTF2021 HardDroid复现](http://matriy330.github.io/668cb1db/)
 - [2026-01-23 21:13:29 ByteCTF2021 ByteDroid1复现](http://matriy330.github.io/d5a3f640/)
 - [2026-01-22 22:38:37 ByteCTF2021 MediumDroid复现](http://matriy330.github.io/1411eb04/)
 - [2026-01-21 23:08:09 ByteCTF2021 EasyDroid复现](http://matriy330.github.io/d5a3f640/)
-- [2026-01-17 13:38:37 ByteCTF2021 BabyDroid复现](http://matriy330.github.io/27338605/)
-- [2026-01-15 15:02:00 HITCTF2025 wp](http://matriy330.github.io/1732c87e/)<!-- BLOG-POST-LIST:END -->
+- [2026-01-17 13:38:37 ByteCTF2021 BabyDroid复现](http://matriy330.github.io/27338605/)<!-- BLOG-POST-LIST:END -->
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=The%20End&fontSize=90&fontAlign=50&fontAlignY=70&desc=&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
